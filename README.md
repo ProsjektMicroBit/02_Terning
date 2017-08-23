@@ -6,6 +6,3 @@ Trenger du den til å vise noe annet, ett tilfeldig tall mellom 1-20 eller kansk
 Se om du får det til! Det er ikke så mye som må endres i blokkene. :)
 
 PXT prosjekt: https://makecode.microbit.org/_WJ0UCxDiKU3F
-
-
-Musikk: "Balloon Game" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 License https://creativecommons.org/licenses/by/3.0/
